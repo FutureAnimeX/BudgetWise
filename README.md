@@ -1,4 +1,4 @@
-# [BudgetWise] 💰
+# [BudgetWise] 
 
 A simple and intuitive budget tracking application designed to help users manage their finances, track expenses, and reach their savings goals with ease.
 
@@ -18,9 +18,10 @@ A simple and intuitive budget tracking application designed to help users manage
 
 See the app in action! Click the link below to watch the walkthrough on YouTube:
 
-[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/FCtDhULCPMo?si=I7VfmKm679SNM0OE)
+[![Watch the video]
+https://youtube.com/shorts/FCtDhULCPMo?si=I7VfmKm679SNM0OE)
 
-> **Note:** Replace `INSERT_YOUTUBE_LINK_HERE` with your actual video URL.
+
 
 ---
 
@@ -28,7 +29,7 @@ See the app in action! Click the link below to watch the walkthrough on YouTube:
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
-   git clone [https://github.com/FutureAnimeX/BudgetWise.git]
+   git clone https://github.com/FutureAnimeX/BudgetWise.git
    
