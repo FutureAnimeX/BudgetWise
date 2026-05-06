@@ -1,4 +1,4 @@
-# [BudgetWise] 
+# BudgetWise App
 
 A simple and intuitive budget tracking application designed to help users manage their finances, track expenses, and reach their savings goals with ease.
 
